@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HaraldWik
+- 👋 Hi, I’m @Harald
 - 👀 I’m interested in Go development
 - 🌱 I’m currently learning Go ig
 - 💞️ I’m looking to collaborate on nothing rn!
