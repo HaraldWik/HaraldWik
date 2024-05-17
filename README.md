@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing rn!
 - 📫 How to reach me idk
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've used programed in over 10 languages, not learned
+- ⚡ Fun fact: I've programed in over 10 languages (not learned)
 
 <!---
 HaraldWik/HaraldWik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
