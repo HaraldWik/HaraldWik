@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harald
-- 👀 I’m interested in Go development
-- 🌱 I’m currently learning Go ig
+- 👀 I’m interested in D & Go development
+- 🌱 I’m currently learning D ig
 - 💞️ I’m looking to collaborate on nothing rn!
 - 📫 How to reach me idk
 - 😄 Pronouns: He/Him
