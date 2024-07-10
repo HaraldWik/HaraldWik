@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Harald
-- 👀 I’m interested in Zig & Go development
-- 🌱 I’m currently learning Zig
-- 💞️ I’m looking to collaborate on nothing rn!
+- 👀 I’m interested in Zig & Go software & game development
+- 🌱 I’m currently learning Zig (Sort of)
 - 📫 How to reach me idk
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've programed in over 10 languages (not learned)
 
 <!---
 HaraldWik/HaraldWik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
