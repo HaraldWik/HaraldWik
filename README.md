@@ -1,5 +1,5 @@
 - 👀 I’m interested in Zig & Go software & game development
-- 🌱 I’m currently learning Zig (Sort of)
+- 🌱 I’m currently learning Zig
 - 📫 How to reach me idk
 - 😄 Pronouns: He/Him
 
