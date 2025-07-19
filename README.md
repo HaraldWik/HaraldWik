@@ -1,31 +1,35 @@
-# 👋 Hello I'm Harald (or Harold)
+<div align="center">
+  <a href="https://github.com/HaraldWik">
+    <img src="https://github-readme-stats.vercel.app/api?username=HaraldWik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+         alt="HaraldWik's GitHub Stats"
+         style="width: 49%; display: inline-block; vertical-align: top; margin: 1%;" />
+  </a>
+  <a href="https://github.com/HaraldWik">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaraldWik&layout=compact&theme=dracula&hide_title=false"
+         alt="HaraldWik's Top Languages"
+         style="width: 49%; display: inline-block; vertical-align: top; margin: 1%;" />
+  </a>
+</div>
 
-My favorite programming language is Zig
-🌟 And I'm looking forward to working more with Vulkan and SDL3
+<div align="center">
+  <a href="https://vulkan.lunarg.com/sdk/home" target="_blank">
+    <img src="https://vulkan.lunarg.com/img/vulkan/vulkan-red.svg"
+         alt="Vulkan Logo"
+         width="150"
+         style="margin: 0 10px;" />
+  </a>
+  <a href="https://www.opengl.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg"
+         alt="OpenGL Logo"
+         width="150"
+         style="margin: 0 10px; vertical-align: baseline;" /> </a>
+  <a href="https://www.khronos.org/openxr/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenXR_logo.svg"
+         alt="OpenXR Logo"
+         width="150"
+         style="margin: 0 10px;" />
+  </a>
+</div>
 
----
-
-### 🛠️ Programming Language History (HaraldWik Edition)
-| Languages | Months Used (approximately) | Version            |
-|-----------|-----------------------------|--------------------|
-| GDScript  | 2 - 4                       | Godot 3.5 - 4.1    |
-| GO        | 3 - 4                       | 1.20.? - 1.23.2    |
-| V         | 1 - 2                       | ~0.4.9             |
-| C         | 1 - 2                       | C99, C11           |
-| ZIG       | Currently using             | 14.0-dev, 1.15-dev | 
-
-
-###### *Note: This list is based on memory, and may be inaccurate.*
-
----
-
-### Frameworks & Tools I've Worked With
-| Framework | Version            |
-|-----------|--------------------|
-| SDL       | 2 - 3              |
-| GLFW      | 3.?                |
-| OpenGL    | 2.1, 3.3, 4.5, 4.6 |
-| Vulkan    | 1.2, 1.3           |
-| STB IMAGE | Unknown            |
-
-###### *Note: This list is based on memory, and may be inaccurate.*
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,go,zig,,linux,bash,git" alt="Languages and Tools" />
