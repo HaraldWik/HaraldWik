@@ -49,7 +49,7 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,go,zig,linux,bash,git,vscode&theme=dark&perline=8"
+  <img src="https://skillicons.dev/icons?i=c,zig,linux,bash,git,vscode&theme=dark&perline=8"
        alt="Programming Languages and Tools"
        width="auto" style="max-width: 600px;"/> </div>
 
